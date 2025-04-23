@@ -2,7 +2,7 @@
 
 import Head from "next/head";
 import Image from "next/image";
-import womanImage from "../assets/pexels-olly-733872.jpg"; // Substitua por uma imagem real no diretório public
+import womanImage from "../assets/pexels-olly-733872.jpg";
 
 export default function Home() {
   return (
